@@ -1,0 +1,47 @@
+.container{
+    min-height: 600px;
+    width: 400px;
+    margin: auto;
+    background-color: #c4e5ec;
+    padding: 15px 20px;
+
+}
+
+#img{
+    margin: 0 45%;
+}
+
+.header{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 10px;
+    color: #0087a2;
+}
+
+.header span{
+    color: black !important;
+}
+
+.big-image{
+    width: 400px;
+    height: 240px;
+    margin-top: 10px;
+    position: relative;
+    display: block;
+    margin: auto;
+
+}
+
+h2{
+    background-color: rgb(31, 52, 216);
+    width: 150px;
+    height: 40px;
+    padding-top: 13px;
+    text-align: center;
+    border-radius: 200px;
+}
+
+p{
+    text-align: center;
+}
